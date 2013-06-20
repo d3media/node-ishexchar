@@ -1,4 +1,4 @@
-[![build status](https://secure.travis-ci.org/d3media/node-ishexchar)](http://travis-ci.org/d3media/node-ishexchar)
+[![build status](https://api.travis-ci.org/d3media/node-ishexchar.png)](http://travis-ci.org/d3media/node-ishexchar)
 
 node-ishexchar
 ==============
