@@ -5,6 +5,10 @@ node-ishexchar
 
 Just a tool to check if a char is a valid `(a-f A-F 0-9`) hex char. 
 
+## Install
+
+Not yet on npm. Just clone
+
 ## Usage
 
 	var isHexChar = require('ishexchar');
